@@ -21,7 +21,7 @@
 
 //here will api url
 const APIURL =
-    "http://gateway.marvel.com/v1/public/characters?ts=1&apikey=f251a697950107bf0cef4aa78392b5a3&hash=e7d534421368f89b68d56c4588e2bc27&limit=100"
+    "https://gateway.marvel.com/v1/public/characters?ts=1&apikey=f251a697950107bf0cef4aa78392b5a3&hash=e7d534421368f89b68d56c4588e2bc27&limit=100"
 const SEARCHAPI =
     "https://api.themoviedb.org/3/search/movie?&api_key=04c35731a5ee918f014970082a0088b1&query=";
 const SEARCHAPI1 = "http://gateway.marvel.com/v1/public/comics?ts=1&apikey=f251a697950107bf0cef4aa78392b5a3&hash=e7d534421368f89b68d56c4588e2bc27&query=";
